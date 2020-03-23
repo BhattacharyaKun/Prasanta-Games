@@ -1,6 +1,6 @@
 function createCanvas()
 {
-	createCanvas(displayWidth, displayHeight);
+	createCanvas(displayWidth*pixelDensity, displayHeight*pixelDensity);
 }
 
 function draw()
