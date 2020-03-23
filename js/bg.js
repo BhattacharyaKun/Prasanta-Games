@@ -1,6 +1,6 @@
 function createCanvas()
 {
-	fullscreen();
+	
 }
 
 function draw()
